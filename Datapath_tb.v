@@ -16,7 +16,7 @@ initial begin
 end
 	
 initial begin
-    #2000; 
+    #4000; 
     $stop;
 end
 endmodule
